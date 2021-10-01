@@ -1,1 +1,1 @@
-# React effects exercise
+## TS day 3 solution
